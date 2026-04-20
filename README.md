@@ -69,5 +69,5 @@ Rede totalmente funcional com características de um provedor real, incluindo se
 
 ## 👨‍💻 Autor
 
-Projeto desenvolvido por Nalberty Meneses Sulino
+Projeto desenvolvido por Nalberty Meneses
  
